@@ -12,7 +12,9 @@ You can try also [transcribe files in just a few minutes with Python](https://ww
 
 <picture>
     <source media="(min-width: 720px)" srcset="key.svg">
+    <a href="https://www.assemblyai.com/dashboard/signup">
     <img src="key.svg" width="800" height="auto" alt="Get a key">
+    </a>
 </picture>
 
 To understand how the API works, check out our [companion article](https://www.assemblyai.com/blog/free-whisper-api-gpu/).
