@@ -57,7 +57,7 @@ curl -X POST "https://YOUR-URL.ngrok-free.app/transcribe" \
 -d '{"file": "https://storage.googleapis.com/aai-web-samples/Custom-Home-Builder.mp3", "model": "tiny"}'
 ```
 
-You can also consume your API in Python with the `requests` library:
+You can also consume your API in Python with the `requests` library (you'll need to `pip install requests` if you haven't done so already):
 
 ```python
 import requests
