@@ -1,0 +1,3 @@
+Got warning "FP16 is not supported on CPU; using FP32 instead"
+
+Flask crashing when loading model sizes beyond medium - not sure why.
