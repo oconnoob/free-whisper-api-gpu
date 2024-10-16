@@ -3,7 +3,7 @@ import os
 
 import requests
 
-API_URL = "https://32c1-34-16-53-102.ngrok-free.app/"
+API_URL = "http://127.0.0.1:8008/"
 # Or your ngrok url when running in colab: https://YOUR-URL.ngrok-free.app/"
 TRANSCRIBE_ENDPOINT = os.path.join(API_URL, "transcribe")
 
